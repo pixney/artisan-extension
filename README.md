@@ -40,4 +40,4 @@ echo "alias \"r\"='source ~/.bashrc'" >> ~/.bash_aliases && source ~/.bashrc
 echo "alias \"art\"='php artisan'" >> ~/.bash_aliases && source ~/.bashrc
 ```
 
-Now you just need to run `art pyro:clear` & `art pyro:compile`
+Now you just need to run `art pyro:clear` or `art pyro:compile`
